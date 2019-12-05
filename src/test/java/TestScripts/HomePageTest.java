@@ -10,7 +10,7 @@ public class HomePageTest {
 	HomePageObject hp;
 
 	public HomePageTest() {
-		hp = new HomePageObject();
+		hp2 = new HomePageObject();
 	}
 
 	@Test
