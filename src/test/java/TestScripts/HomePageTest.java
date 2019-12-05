@@ -16,6 +16,7 @@ public class HomePageTest {
 	@Test
 	public void verifyTabNavigation() {
 		hp.clickWomen();
+		hp.clickWomen();
 		Assert.assertTrue(hp.getTitlte().contains("Women"));
 		hp.clickDresses();
 		Assert.assertTrue(hp.getTitlte().contains("Dresses"));
