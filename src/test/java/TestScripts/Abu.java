@@ -7,7 +7,7 @@ import pageObject.HomePageObject;
 
 public class HomePageTest {
 	
-	HomePageObject hp;
+	HomePageObject hp1;
 
 	public HomePageTest() {
 
